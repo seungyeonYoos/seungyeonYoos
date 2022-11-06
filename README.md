@@ -1,5 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WelcomeToMyPage&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20To%20My%20Page&fontSize=90)
+
 
 <br>
 <div>🛠️Technology</div>
