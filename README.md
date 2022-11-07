@@ -1,6 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20My%20Page&fontSize=70)
 
+<div>Hello!%20My%20name%20is%20Seung%20Yeon%20Yoo!</div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -17,5 +18,8 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+</div>
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeonYoos)](https://github.com/SeungYeonYoos/github-readme-stats)
 </div>
 
