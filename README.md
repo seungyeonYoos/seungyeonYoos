@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20My%20Page&fontSize=70)
 
-<h3 align=center>Hello! My Name is SeungYeon Yoo!</h3>
+<h3 align=center>🙌Hello! I’m Seungyeon Yoo!</h3>
 <div align=center>
 	<div>I’m interested in Interactive Web.</div>
 	<div>I want to be a super Front_end Developer.</div>
@@ -27,5 +27,8 @@
 <br />
 <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos)](https://github.com/seungyeonYoos/github-readme-stats)
+</div>
+<div>
+<img src="http://mazandi.herokuapp.com/api?handle={seungyeonYoos}&theme=warm"/>
 </div>
 
