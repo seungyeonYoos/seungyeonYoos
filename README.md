@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20My%20Page&fontSize=70)
 
 <h3 align=center>Hello! My Name is SeungYeon Yoo!</h3>
-<ul>
+<ul align=center>
 	<li>I’m interested in Interactive Web.</li>
 	<li>I want to be a super Front_end Developer.</li>
 	<li>cjsrnr90218@gmail.com</li>
