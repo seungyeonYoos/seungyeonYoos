@@ -29,6 +29,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos)](https://github.com/seungyeonYoos/github-readme-stats)
 </div>
 <div>
-<img src="http://mazandi.herokuapp.com/api?handle={seungyeonYoos}&theme=warm"/>
+<img src="http://seungyeonYoos.herokuapp.com/api?handle={seungyeonYoos}&theme=warm"/>
 </div>
 
