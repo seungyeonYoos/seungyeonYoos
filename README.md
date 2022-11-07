@@ -31,3 +31,7 @@
 </div>
 <div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=Demo&theme=dark)</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact&theme=tokyonight)
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&langs_count=10&layout=compact&theme=dark)](https://github.com/seungyeonYoos/seungyeonYoos)
+
+</div>
