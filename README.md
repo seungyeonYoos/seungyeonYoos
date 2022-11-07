@@ -29,4 +29,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos)](https://github.com/seungyeonYoos/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact)](https://github.com/seungyeonYoos/github-readme-stats)
 </div>
+<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=Demo&theme=dark)</div>
 
