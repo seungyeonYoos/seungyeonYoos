@@ -19,7 +19,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 </div>
+<br />
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeonYoos)](https://github.com/SeungYeonYoos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos)](https://github.com/seungyeonYoos/github-readme-stats)
 </div>
 
