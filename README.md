@@ -31,4 +31,7 @@
 <div>
 <img src="http://seungyeonYoos.herokuapp.com/api?handle={seungyeonYoos}&theme=warm"/>
 </div>
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact)](https://github.com/seungyeonYoos/github-readme-stats)
+</div>
 
