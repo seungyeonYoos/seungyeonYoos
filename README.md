@@ -31,3 +31,5 @@
 </div>
 <div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=Demo&theme=dark)</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact&theme=tokyonight)
+
+![Mr.chu's github stats](https://github-readme-stats.vercel.app/api?username=seungyeonYoos&show_icons=true&theme=maroongold)
