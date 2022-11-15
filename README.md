@@ -25,6 +25,11 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 </div>
 <br />
+
+<div align=center>
+	<p>✨ Most used Langueges ✨</p>
+	<p>![Seungyeon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact&theme=dracula)</p>
+</div>
 <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos)](https://github.com/seungyeonYoos/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=${seungyeonYoos}&layout=compact)](https://github.com/seungyeonYoos/github-readme-stats)
