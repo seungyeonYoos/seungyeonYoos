@@ -28,7 +28,7 @@
 
 <div align=center>
 	<p>✨ Most used Langueges ✨</p>
-	<p>![Seungyeon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact&theme=dracula)</p>
+	<p>![Seungyeon's github stats](https://github-readme-stats.vercel.app/api?username=seungyeonYoos&layout=compact&theme=dracula)</p>
 </div>
 <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos)](https://github.com/seungyeonYoos/github-readme-stats)
