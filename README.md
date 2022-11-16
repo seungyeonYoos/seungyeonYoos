@@ -26,11 +26,10 @@
 </div>
 <br />
 
+<div align=center>✨ Most used Langueges ✨</div>
 <div align=center>
-	<p>✨ Most used Langueges ✨</p>
-	<p>
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact&theme=tokyonight)(https://github.com/anuraghazra/github-readme-stats)
-	</p>
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact&theme=tokyonight)
+
 	
 
 </div>
