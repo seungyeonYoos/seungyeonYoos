@@ -28,8 +28,9 @@
 
 <div align=center>
 	<p>✨ Most used Langueges ✨</p>
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeonYoos&show_icons=true&theme=dark )
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact&theme=tokyonight)
+	<p>
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username="seungyeonYoos"&layout="compact"&theme="tokyonight"/)
+	</p>
 	
 
 </div>
