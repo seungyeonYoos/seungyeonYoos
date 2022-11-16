@@ -34,6 +34,7 @@
 
 </div>
 <div align=center>✨ Github stats ✨</div>
+<br />
 <div align=center>
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeonYoos&theme=buefy&show_icons=true)
