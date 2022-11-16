@@ -27,6 +27,7 @@
 <br />
 
 <div align=center>✨ Most used Langueges ✨</div>
+<br />
 <div align=center>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact&theme=tokyonight)](https://github.com/seungyeonYoos/github-readme-stats)
