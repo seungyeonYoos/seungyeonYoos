@@ -30,7 +30,7 @@
 <br />
 <div align=center>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact&theme=tokyonight)](https://github.com/seungyeonYoos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact&theme=buefy)](https://github.com/seungyeonYoos/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeonYoos&theme=buefy&show_icons=true)
 
