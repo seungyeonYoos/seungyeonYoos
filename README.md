@@ -28,6 +28,7 @@
 
 <div align=center>✨ Most used Langueges ✨</div>
 <div align=center>
+![seungyeon's github stats](https://github-readme-stats.vercel.app/api?username=seungyeonYoos&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonYoos&layout=compact&theme=tokyonight)
 
 	
