@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=50)
+![깃헙](https://user-images.githubusercontent.com/110958683/202125975-43c2154e-82e6-4040-bec5-0e353e23c0f4.png)
 
 <h3 align=center>🙌Hello! I'm Seungyeon Yoo</h3>
 <div align=center>
