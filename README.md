@@ -24,6 +24,11 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 </div>
 <br />
+<div align=center>
+	<p>✨ Design Tools ✨</p>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+</div>
 
 <div align=center>✨ Most used Langueges ✨</div>
 <br />
