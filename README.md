@@ -1,6 +1,6 @@
 ![깃헙](https://user-images.githubusercontent.com/110958683/202125975-43c2154e-82e6-4040-bec5-0e353e23c0f4.png)
 
-<h3 align=center>❤️ About me ❤️</h3>
+<h3 align=center>❤️ About me ❤️ </h3>
 <div align=center>
 	<div>안녕하세요! 웹디자이너로 일한 경험이 있으며, 현재는 개발 공부중입니다.</div>
 	<div>프론트엔드와 ui/ux디자인 모두 관심있는 열정 가득한 신입개발자입니다.🤍</div>
