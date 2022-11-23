@@ -3,7 +3,7 @@
 <h3 align=center>❤️ About me ❤️</h3>
 <div align=center>
 	<div>안녕하세요! 웹디자이너로 일한 경험이 있으며, 현재는 개발 공부중입니다.</div>
-	<div>프론트엔드와 ui/ux디자인 모두 관심있는 열정 가득한 신입개발자입니다.🤍</div>
+	<div>프론트엔드와 ui/ux디자인 모두 관심있는 열정 가득한 신입개발자입니다. 🤍</div>
 	<div>cjsrnr90218@gmail.com</div>
 </div>
 <div align=center>
